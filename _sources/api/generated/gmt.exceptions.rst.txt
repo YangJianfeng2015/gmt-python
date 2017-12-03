@@ -1,0 +1,33 @@
+The ``gmt.exceptions`` module
+=============================
+
+.. automodule:: gmt.exceptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+.. rubric:: Exceptions
+
+.. autosummary::
+  :toctree: ./
+
+  GMTCLibError
+
+  GMTCLibNoSessionError
+
+  GMTCLibNotFoundError
+
+  GMTError
+
+  GMTOSError
+
+

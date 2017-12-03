@@ -1,0 +1,33 @@
+The ``gmt`` module
+==================
+
+.. automodule:: gmt
+
+
+
+.. rubric:: Classes
+
+.. autosummary::
+  :toctree: ./
+
+  Figure
+
+
+
+
+
+
+
+.. rubric:: Functions
+
+.. autosummary::
+  :toctree: ./
+
+  test
+
+
+
+
+
+
+

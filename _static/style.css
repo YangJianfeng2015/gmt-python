@@ -1,0 +1,49 @@
+/* To stick the footer to the bottom of the page */
+html {
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 300;
+    font-family: "Open Sans",sans-serif;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+.sidebar-title {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.banner {
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.banner h1 {
+    margin-top: 40px;
+    font-size: 4em;
+}
+
+.wy-nav-content {
+    max-width: 1000px;
+}
+
+/* Remove the padding from the Parameters table */
+.rst-content table.field-list .field-name {
+    padding-left: 0px;
+}
+
+/* Lign up the Parameters section with the descriptions */
+.rst-content table.field-list td {
+    padding-top: 8px;
+}
+
+.rst-content .highlight > pre {
+    font-size: 14px;
+}

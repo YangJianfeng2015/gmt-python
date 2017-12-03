@@ -1,0 +1,54 @@
+gmt\.Figure
+===========
+
+.. currentmodule:: gmt
+
+.. autoclass:: Figure
+
+
+
+
+.. raw:: html
+
+    <hr>
+
+.. rubric:: Methods Documentation
+
+
+
+
+
+.. automethod:: Figure.basemap
+
+
+
+.. automethod:: Figure.coast
+
+
+
+.. automethod:: Figure.gmtlogo
+
+
+
+.. automethod:: Figure.plot
+
+
+
+.. automethod:: Figure.psconvert
+
+
+
+.. automethod:: Figure.savefig
+
+
+
+.. automethod:: Figure.show
+
+
+
+
+
+
+.. raw:: html
+
+     <div style='clear:both'></div>
